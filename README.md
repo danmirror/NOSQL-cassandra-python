@@ -7,4 +7,4 @@
 - [x] python cassandrea driver
 
 #### Author
-> <a href="https://me-danuandrean.github.io/>Danu Andrean </a>
+> <a href="https://me-danuandrean.github.io/ ">Danu Andrean </a>
